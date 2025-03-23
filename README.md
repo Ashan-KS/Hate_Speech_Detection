@@ -29,7 +29,6 @@ Model Accuracy: 89.57574367523193
     weighted avg       0.89      0.90      0.90      8509
 
 ## 📌 Libraries Used
-- Python 3.x
 - TensorFlow/Keras
 - Pandas
 - NumPy
