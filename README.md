@@ -9,8 +9,15 @@ https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-datase
 
 ## 🧠 Model Used
 - Long Short-Term Memory (LSTM) Neural Network
-- Preprocessing steps include removing unnecessary characters, removing spacing, lemmatizing, removing stop words, transforming into one-hot representation and adding padding.
 - The model is trained using TensorFlow/Keras.
+
+## Preprocessing Steps
+  1. **Text Cleaning**: Removing unnecessary characters and extra spacing.
+  2. **Lemmatization**: Converting words to their base form.
+  3. **Stopword Removal**: Filtering out common words that do not contribute to meaning.
+  4. **One-Hot Encoding**: Transforming words into numerical representation.
+  5. **Padding**: Ensuring all sequences have the same length.
+  6. **SMOTE (Synthetic Minority Over-sampling Technique)**: Addressing class imbalance by generating synthetic samples.
 
 ## 📊 Model Performance
 
