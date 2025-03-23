@@ -40,6 +40,7 @@ Model Accuracy: 89.57574367523193
 - Pandas
 - NumPy
 - Scikit-learn
+- Imbalanced-learn
 - Spacy
 - Matplotlib
 - Seaborn
