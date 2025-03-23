@@ -25,9 +25,8 @@ Model Accuracy: 89.57574367523193
            2       0.75      0.71      0.73       890
 
     accuracy                           0.90      8509
-    
-   macro avg       0.86      0.85      0.85      8509
-weighted avg       0.89      0.90      0.90      8509
+    macro avg       0.86      0.85      0.85      8509
+    weighted avg       0.89      0.90      0.90      8509
 
 ## 📌 Libraries Used
 - Python 3.x
